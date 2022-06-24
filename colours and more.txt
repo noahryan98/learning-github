@@ -8,11 +8,10 @@ orange
 
 
 
-
-
-
-
-
+animals:
+bear
+cat
+dog
 
 
 
